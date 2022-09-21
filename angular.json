@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "aumnics"
+    }
+  },
+  "defaultProject": "aumnics",
+  "cli": {
+    "analytics": false
+  }
 }
